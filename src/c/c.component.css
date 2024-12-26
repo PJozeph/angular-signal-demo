@@ -1,0 +1,10 @@
+.container {
+    border: 1px solid green;
+    padding: 1rem;
+
+    .counter {
+        display: flex;
+        justify-content: center;
+        gap: 1rem;
+    }
+}
